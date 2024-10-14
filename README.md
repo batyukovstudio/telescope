@@ -5,7 +5,7 @@
 
 1. Указать параметры, которые нужно скрывать в `TelescopeServiceProvider`
 
-Telescope::hideRequestParameters(['_token', 'password_repeat']);
+`Telescope::hideRequestParameters(['_token', 'password_repeat']);`
 
 <p align="center">
 <a href="https://github.com/laravel/telescope/actions"><img src="https://github.com/laravel/telescope/workflows/tests/badge.svg" alt="Build Status"></a>
