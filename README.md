@@ -1,5 +1,12 @@
 <p align="center"><img width="391" height="83" src="/art/logo.svg" alt="Logo Laravel Telescope"></p>
 
+
+## Не забудь 
+
+1. Указать параметры, которые нужно скрывать в `TelescopeServiceProvider`
+
+Telescope::hideRequestParameters(['_token', 'password_repeat']);
+
 <p align="center">
 <a href="https://github.com/laravel/telescope/actions"><img src="https://github.com/laravel/telescope/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/telescope"><img src="https://img.shields.io/packagist/dt/laravel/telescope" alt="Total Downloads"></a>
