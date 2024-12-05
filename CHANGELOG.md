@@ -1,6 +1,29 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.2.2...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.2.6...5.x)
+
+## [v5.2.6](https://github.com/laravel/telescope/compare/v5.2.5...v5.2.6) - 2024-11-25
+
+* [5.x] Supports PHP 8.4 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/telescope/pull/1544
+* [5.x] fix implicitly marking parameter as nullable by [@SupianIDz](https://github.com/SupianIDz) in https://github.com/laravel/telescope/pull/1550
+
+## [v5.2.5](https://github.com/laravel/telescope/compare/v5.2.4...v5.2.5) - 2024-10-31
+
+* Bump elliptic from 6.5.7 to 6.6.0 by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1541
+
+## [v5.2.4](https://github.com/laravel/telescope/compare/v5.2.3...v5.2.4) - 2024-10-29
+
+* [5.x] Fix `JobWatcher` when processing deleted instance of `SerializesModels` by [@hapidjus](https://github.com/hapidjus) in https://github.com/laravel/telescope/pull/1539
+
+## [v5.2.3](https://github.com/laravel/telescope/compare/v5.2.2...v5.2.3) - 2024-10-13
+
+* Bump webpack from 5.88.2 to 5.94.0 by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1513
+* Bump elliptic from 6.5.4 to 6.5.7 by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1515
+* Bump send and express by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1522
+* Bump serve-static and express by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1521
+* Update logo to support dark/light theme by [@milewski](https://github.com/milewski) in https://github.com/laravel/telescope/pull/1529
+* Bump cookie and express by [@dependabot](https://github.com/dependabot) in https://github.com/laravel/telescope/pull/1535
+* [5.x] Added `isEvent` and `isCache` methods to `IncomingEntry` by [@mrazinshaikh](https://github.com/mrazinshaikh) in https://github.com/laravel/telescope/pull/1536
 
 ## [v5.2.2](https://github.com/laravel/telescope/compare/v5.2.1...v5.2.2) - 2024-08-26
 
